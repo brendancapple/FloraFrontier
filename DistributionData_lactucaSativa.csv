@@ -1,0 +1,92 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+LASA3,Canada,Alberta,01,,
+LASA3,United States,Alabama,01,,
+LASA3,United States,California,06,,
+LASA3,United States,California,06,Alameda,001
+LASA3,United States,California,06,Butte,007
+LASA3,United States,California,06,Contra Costa,013
+LASA3,United States,California,06,Inyo,027
+LASA3,United States,California,06,Sacramento,067
+LASA3,United States,California,06,San Diego,073
+LASA3,United States,California,06,San Francisco,075
+LASA3,United States,California,06,Santa Clara,085
+LASA3,United States,California,06,Sonoma,097
+LASA3,United States,California,06,Tehama,103
+LASA3,United States,California,06,Yolo,113
+LASA3,Canada,Ontario,08,,
+LASA3,United States,Connecticut,09,,
+LASA3,United States,Connecticut,09,Fairfield,001
+LASA3,United States,Delaware,10,,
+LASA3,United States,District of Columbia,11,,
+LASA3,United States,District of Columbia,11,District of Columbia,001
+LASA3,United States,Idaho,16,,
+LASA3,United States,Idaho,16,Blaine,013
+LASA3,United States,Idaho,16,Bonner,017
+LASA3,United States,Idaho,16,Elmore,039
+LASA3,United States,Idaho,16,Franklin,041
+LASA3,United States,Illinois,17,,
+LASA3,United States,Illinois,17,Jackson,077
+LASA3,United States,Indiana,18,,
+LASA3,United States,Indiana,18,Allen,003
+LASA3,United States,Indiana,18,Blackford,009
+LASA3,United States,Indiana,18,Carroll,015
+LASA3,United States,Indiana,18,Delaware,035
+LASA3,United States,Indiana,18,Floyd,043
+LASA3,United States,Indiana,18,Hamilton,057
+LASA3,United States,Indiana,18,Howard,067
+LASA3,United States,Indiana,18,Jasper,073
+LASA3,United States,Indiana,18,Lake,089
+LASA3,United States,Indiana,18,Lawrence,093
+LASA3,United States,Indiana,18,Miami,103
+LASA3,United States,Indiana,18,Monroe,105
+LASA3,United States,Indiana,18,Montgomery,107
+LASA3,United States,Indiana,18,Noble,113
+LASA3,United States,Indiana,18,Putnam,133
+LASA3,United States,Indiana,18,Steuben,151
+LASA3,United States,Indiana,18,Tippecanoe,157
+LASA3,United States,Indiana,18,Vigo,167
+LASA3,United States,Indiana,18,Wells,179
+LASA3,United States,Maine,23,,
+LASA3,United States,Massachusetts,25,,
+LASA3,United States,Massachusetts,25,Berkshire,003
+LASA3,United States,Massachusetts,25,Dukes,007
+LASA3,United States,Massachusetts,25,Hampshire,015
+LASA3,United States,Massachusetts,25,Middlesex,017
+LASA3,United States,Massachusetts,25,Norfolk,021
+LASA3,United States,Michigan,26,,
+LASA3,United States,Missouri,29,,
+LASA3,United States,New Jersey,34,,
+LASA3,United States,New Mexico,35,,
+LASA3,United States,New Mexico,35,Bernalillo,001
+LASA3,United States,New Mexico,35,Catron,003
+LASA3,United States,New Mexico,35,McKinley,031
+LASA3,United States,New Mexico,35,Socorro,053
+LASA3,United States,New York,36,,
+LASA3,United States,New York,36,Albany,001
+LASA3,United States,New York,36,Cattaraugus,009
+LASA3,United States,New York,36,Erie,029
+LASA3,United States,New York,36,Monroe,055
+LASA3,United States,New York,36,Ulster,111
+LASA3,United States,New York,36,Warren,113
+LASA3,United States,North Dakota,38,,
+LASA3,United States,Ohio,39,,
+LASA3,United States,Ohio,39,Franklin,049
+LASA3,United States,Oklahoma,40,,
+LASA3,United States,Oregon,41,,
+LASA3,United States,Pennsylvania,42,,
+LASA3,United States,Pennsylvania,42,Bucks,017
+LASA3,United States,Pennsylvania,42,Chester,029
+LASA3,United States,Pennsylvania,42,Lehigh,077
+LASA3,United States,Pennsylvania,42,Montgomery,091
+LASA3,United States,Pennsylvania,42,Northampton,095
+LASA3,United States,Washington,53,,
+LASA3,United States,Washington,53,Klickitat,039
+LASA3,United States,Washington,53,Whitman,075
+LASA3,United States,West Virginia,54,,
+LASA3,United States,West Virginia,54,Monongalia,061
+LASA3,United States,Guam,66,,
+LASA3,United States,Puerto Rico,72,,
+LASA3,United States,U.S. Minor Outlying Islands,74,,
+LASA3,United States,U.S. Minor Outlying Islands,74,Wake Island,450
+LASA3,United States,Virgin Islands,78,,

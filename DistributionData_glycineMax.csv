@@ -1,0 +1,151 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+GLMA4,United States,Alabama,01,,
+GLMA4,United States,Arkansas,05,,
+GLMA4,Canada,Ontario,08,,
+GLMA4,Canada,Quebec,10,,
+GLMA4,United States,Delaware,10,,
+GLMA4,United States,Florida,12,,
+GLMA4,United States,Florida,12,Palm Beach,099
+GLMA4,United States,Georgia,13,,
+GLMA4,United States,Illinois,17,,
+GLMA4,United States,Illinois,17,Boone,007
+GLMA4,United States,Illinois,17,Cass,017
+GLMA4,United States,Illinois,17,Champaign,019
+GLMA4,United States,Illinois,17,Christian,021
+GLMA4,United States,Illinois,17,Clinton,027
+GLMA4,United States,Illinois,17,Cook,031
+GLMA4,United States,Illinois,17,DeKalb,037
+GLMA4,United States,Illinois,17,DuPage,043
+GLMA4,United States,Illinois,17,Grundy,063
+GLMA4,United States,Illinois,17,Hamilton,065
+GLMA4,United States,Illinois,17,Hancock,067
+GLMA4,United States,Illinois,17,Iroquois,075
+GLMA4,United States,Illinois,17,Jackson,077
+GLMA4,United States,Illinois,17,Johnson,087
+GLMA4,United States,Illinois,17,Kane,089
+GLMA4,United States,Illinois,17,Kankakee,091
+GLMA4,United States,Illinois,17,Kendall,093
+GLMA4,United States,Illinois,17,Lake,097
+GLMA4,United States,Illinois,17,Lawrence,101
+GLMA4,United States,Illinois,17,Livingston,105
+GLMA4,United States,Illinois,17,Marion,121
+GLMA4,United States,Illinois,17,Massac,127
+GLMA4,United States,Illinois,17,McDonough,109
+GLMA4,United States,Illinois,17,McHenry,111
+GLMA4,United States,Illinois,17,Moultrie,139
+GLMA4,United States,Illinois,17,Pike,149
+GLMA4,United States,Illinois,17,Pulaski,153
+GLMA4,United States,Illinois,17,Randolph,157
+GLMA4,United States,Illinois,17,Scott,171
+GLMA4,United States,Illinois,17,Union,181
+GLMA4,United States,Illinois,17,Vermilion,183
+GLMA4,United States,Illinois,17,Wayne,191
+GLMA4,United States,Illinois,17,Will,197
+GLMA4,United States,Indiana,18,,
+GLMA4,United States,Iowa,19,,
+GLMA4,United States,Kentucky,21,,
+GLMA4,United States,Kentucky,21,Bullitt,029
+GLMA4,United States,Louisiana,22,,
+GLMA4,United States,Louisiana,22,Acadia,001
+GLMA4,United States,Louisiana,22,Allen,003
+GLMA4,United States,Louisiana,22,Ascension,005
+GLMA4,United States,Louisiana,22,Beauregard,011
+GLMA4,United States,Louisiana,22,Caddo,017
+GLMA4,United States,Louisiana,22,Catahoula,025
+GLMA4,United States,Louisiana,22,Claiborne,027
+GLMA4,United States,Louisiana,22,Concordia,029
+GLMA4,United States,Louisiana,22,De Soto,031
+GLMA4,United States,Louisiana,22,East Baton Rouge,033
+GLMA4,United States,Louisiana,22,East Carroll,035
+GLMA4,United States,Louisiana,22,East Feliciana,037
+GLMA4,United States,Louisiana,22,Franklin,041
+GLMA4,United States,Louisiana,22,Grant,043
+GLMA4,United States,Louisiana,22,Jefferson Davis,053
+GLMA4,United States,Louisiana,22,Lafayette,055
+GLMA4,United States,Louisiana,22,Madison,065
+GLMA4,United States,Louisiana,22,Morehouse,067
+GLMA4,United States,Louisiana,22,Orleans,071
+GLMA4,United States,Louisiana,22,Ouachita,073
+GLMA4,United States,Louisiana,22,Rapides,079
+GLMA4,United States,Louisiana,22,Richland,083
+GLMA4,United States,Louisiana,22,Sabine,085
+GLMA4,United States,Louisiana,22,St. Charles,089
+GLMA4,United States,Louisiana,22,St. James,093
+GLMA4,United States,Louisiana,22,St. John the Baptist,095
+GLMA4,United States,Louisiana,22,St. Landry,097
+GLMA4,United States,Louisiana,22,Tangipahoa,105
+GLMA4,United States,Louisiana,22,Tensas,107
+GLMA4,United States,Louisiana,22,Union,111
+GLMA4,United States,Louisiana,22,Vermilion,113
+GLMA4,United States,Louisiana,22,West Baton Rouge,121
+GLMA4,United States,Louisiana,22,West Carroll,123
+GLMA4,United States,Louisiana,22,Winn,127
+GLMA4,United States,Maryland,24,,
+GLMA4,United States,Massachusetts,25,,
+GLMA4,United States,Massachusetts,25,Berkshire,003
+GLMA4,United States,Massachusetts,25,Franklin,011
+GLMA4,United States,Michigan,26,,
+GLMA4,United States,Michigan,26,Berrien,021
+GLMA4,United States,Michigan,26,Wayne,163
+GLMA4,United States,Minnesota,27,,
+GLMA4,United States,Mississippi,28,,
+GLMA4,United States,Mississippi,28,DeSoto,033
+GLMA4,United States,Mississippi,28,Jackson,059
+GLMA4,United States,Mississippi,28,Union,145
+GLMA4,United States,Mississippi,28,Washington,151
+GLMA4,United States,Missouri,29,,
+GLMA4,United States,Missouri,29,Callaway,027
+GLMA4,United States,Missouri,29,Cape Girardeau,031
+GLMA4,United States,Missouri,29,Holt,087
+GLMA4,United States,Missouri,29,Randolph,175
+GLMA4,United States,Missouri,29,Ray,177
+GLMA4,United States,Missouri,29,St. Louis,189
+GLMA4,United States,Nebraska,31,,
+GLMA4,United States,New Jersey,34,,
+GLMA4,United States,New York,36,,
+GLMA4,United States,New York,36,Albany,001
+GLMA4,United States,New York,36,Bronx,005
+GLMA4,United States,New York,36,Chemung,015
+GLMA4,United States,North Carolina,37,,
+GLMA4,United States,North Carolina,37,Catawba,035
+GLMA4,United States,North Carolina,37,Durham,063
+GLMA4,United States,North Carolina,37,Jones,103
+GLMA4,United States,North Carolina,37,Madison,115
+GLMA4,United States,North Carolina,37,Pitt,147
+GLMA4,United States,North Carolina,37,Polk,149
+GLMA4,United States,Ohio,39,,
+GLMA4,United States,Ohio,39,Fairfield,045
+GLMA4,United States,Ohio,39,Henry,069
+GLMA4,United States,Ohio,39,Highland,071
+GLMA4,United States,Ohio,39,Knox,083
+GLMA4,United States,Ohio,39,Medina,103
+GLMA4,United States,Ohio,39,Meigs,105
+GLMA4,United States,Ohio,39,Scioto,145
+GLMA4,United States,Pennsylvania,42,,
+GLMA4,United States,Pennsylvania,42,Allegheny,003
+GLMA4,United States,Pennsylvania,42,Berks,011
+GLMA4,United States,Pennsylvania,42,Bucks,017
+GLMA4,United States,Pennsylvania,42,Delaware,045
+GLMA4,United States,Pennsylvania,42,Fayette,051
+GLMA4,United States,Pennsylvania,42,Lehigh,077
+GLMA4,United States,Pennsylvania,42,Montgomery,091
+GLMA4,United States,Pennsylvania,42,Northampton,095
+GLMA4,United States,Pennsylvania,42,Philadelphia,101
+GLMA4,United States,South Carolina,45,,
+GLMA4,United States,South Carolina,45,Florence,041
+GLMA4,United States,Tennessee,47,,
+GLMA4,United States,Virginia,51,,
+GLMA4,United States,West Virginia,54,,
+GLMA4,United States,West Virginia,54,Fayette,019
+GLMA4,United States,West Virginia,54,Hardy,031
+GLMA4,United States,Wisconsin,55,,
+GLMA4,United States,Wisconsin,55,Dane,025
+GLMA4,United States,Wisconsin,55,Douglas,031
+GLMA4,United States,Wisconsin,55,Jackson,053
+GLMA4,United States,Wisconsin,55,Kenosha,059
+GLMA4,United States,Wisconsin,55,Marinette,075
+GLMA4,United States,Wisconsin,55,Milwaukee,079
+GLMA4,United States,Wisconsin,55,Racine,101
+GLMA4,United States,Wisconsin,55,Walworth,127
+GLMA4,United States,Puerto Rico,72,,
